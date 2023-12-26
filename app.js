@@ -25,5 +25,3 @@ app.use((err, req, res, next) => {
 });
 
 module.exports = app;
-// JEFVX9RldbH142HF
-// mongodb+srv://Oleksandr:JEFVX9RldbH142HF@cluster0.sbsa9va.mongodb.net/db-contacts?retryWrites=true&w=majority
